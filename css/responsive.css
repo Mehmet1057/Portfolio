@@ -1,0 +1,69 @@
+@media screen and (max-width: 770px) {
+  .logo a {
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+  }
+  .navbar {
+    width: 90%;
+  }
+  .nav-links {
+    display: none;
+  }
+  .menu-item {
+    display: inline-block;
+  }
+  .inner-anasayfa {
+    flex-wrap: wrap;
+    flex-direction: column-reverse;
+    gap: 30px;
+  }
+  .child-anasayfa {
+    flex-basis: 100%;
+  }
+  .child-anasayfa h1 {
+    font-size: 30px;
+  }
+  .child-anasayfa p {
+    font-size: 16px;
+  }
+  .section-title h2 {
+    font-size: 24px;
+  }
+
+  /*yazilimlar*/
+  .inner-software {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+  }
+
+  /*basarilar*/
+  .child-success {
+    flex-basis: 95%;
+    margin-bottom: 20px;
+  }
+  .child-success2 {
+    flex-basis: 100%;
+  }
+  .detail-success {
+    flex-basis: 100%;
+  }
+
+  /*hakkimda*/
+  .inner-about {
+    flex-wrap: wrap;
+    flex-direction: column;
+    gap: 30px;
+    font-size: 14px;
+  }
+
+  /*iletisim*/
+  .contact-img {
+    flex-basis: 100%;
+    margin-bottom: 20px;
+  }
+  .contact-detail {
+    flex-basis: 100%;
+  }
+}
