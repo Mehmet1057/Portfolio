@@ -1,8 +1,8 @@
 ## Portfolio-Website
 
-- Kullandigim teknolojiler, yaptığım çalışmalar, hakkimdaki bilgiler ve iletisim bilgilerimin bulundugu web sitesi.
+- Kullandigim teknolojiler, yaptıgım calısmalar, hakkimdaki bilgiler ve iletisim bilgilerimin bulundugu web sitesi.
 
-- HTML ve Css kullanilarak yapildi.
+- Html ve Css kullanilarak yapildi.
 
 ## Gif
 
