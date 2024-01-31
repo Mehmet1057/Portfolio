@@ -6,4 +6,4 @@
 
 ## Gif
 
-<img src="/img/Ekran görüntüsü.jpg">
+<img src="/img/Screenshot.jpg">
